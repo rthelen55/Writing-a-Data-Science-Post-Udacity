@@ -12,10 +12,10 @@ Udacity Data Scientist Nanodegree Project.
 
 ## Installation <a name="installation"></a>
 
-This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute: </br>
+This code runs with Python version 3.10 and requires some libraries, to install theses libraries you will need to execute: </br>
 ` pip install -r requirements.txt `
 
-You will need to download Stackoverflow�s 2018 and 2019 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
+You will need to download Stackoverflows 2019 - 2023 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
 
 ## Project Motivation <a name="motivation"></a>
 
